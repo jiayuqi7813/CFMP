@@ -1,0 +1,23 @@
+{
+    "music": {
+        "yllw": {
+            "musiclist": ["相信自己.mp3","动物世界.mp3"]
+        },
+        "zjls": {
+            "musiclist": ["为了心中的梦.wav","猫雷.mp3"]
+        },
+        "skls": {
+            "musiclist": ["姐就是女王.mp3"]
+        },
+        "sqls": {
+            "musiclist": ["虎拳嗷.mp3"]
+        },
+        "jsls": {
+            "musiclist": ["救赎的小曲.mp3"]
+        },
+        "jxls": {
+            "musiclist": ["鸡你太美.mp3"]
+        }
+    },
+    "musicPath": "music/"
+}
